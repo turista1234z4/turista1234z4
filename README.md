@@ -13,8 +13,5 @@
 [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Acces](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)](#)
 
+![Turista GitHub stats](https://github-readme-stats.vercel.app/api?username=turista1234z4&show_icons=true&theme=highcontrast)
 
-
-### Contato:
-
-![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
