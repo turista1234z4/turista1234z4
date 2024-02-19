@@ -1,5 +1,5 @@
 ## Matheus Eduardo da Silva ♟️
-
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:matheuseduardosilva13@gmail.com)
 
 ### Meus conhecimentos:
 
