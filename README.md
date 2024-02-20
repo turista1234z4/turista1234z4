@@ -12,6 +12,4 @@
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Acces](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)](#)
-
-![Turista GitHub stats](https://github-readme-stats.vercel.app/api?username=turista1234z4&show_icons=true&theme=highcontrast)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turista1234z4&layout=compact)
